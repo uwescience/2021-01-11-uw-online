@@ -368,6 +368,11 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
+<h3> Setup for each unit: </h3>
+- Unix shell: http://swcarpentry.github.io/shell-novice/setup.html
+- Git: http://swcarpentry.github.io/git-novice/setup.html
+- Python: https://swcarpentry.github.io/python-novice-inflammation/setup.html
+
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
